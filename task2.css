@@ -1,0 +1,209 @@
+#header{
+	background-color: #555655;
+	height: 70px;
+	margin: -15px;
+	margin-top: -10px;
+
+}
+
+#logo{
+	float: left;
+	height:90%;
+	width: 20%;
+	margin-top: 8px;
+}
+
+
+#nav li{
+	
+	float: right;
+	margin-right: 20px;
+	margin-top: 30px;
+	margin-left: 10px;
+	font-weight: bold;	
+	font-size: large;
+	
+	
+}
+
+#nav a{
+	padding-left: 2px;
+	color: #f8f4f4;
+	text-decoration: none;
+	
+}
+a{
+	text-decoration:none;
+}
+body{
+	background-color: #989797;
+	margin:5px;
+	margin-top: -30px;
+
+}
+article{
+	margin:20px;
+	background-color: white;
+	padding:15px;
+}
+
+#first{
+	margin-top: 40px;
+}
+
+.firstp{
+	text-indent: 2em;
+}
+
+#secondspan{
+	display:inline-block;
+	margin-left: 5px;
+}
+
+dl{
+	text-align: center;
+}
+
+dl dd{
+	border: 1px solid;
+	margin:15px;
+	border-color: #afa9a9;
+	padding:8px;
+	width:376px;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#picture2{
+	border: 1px solid;
+	margin:15px;
+	border-color: #afa9a9;
+	padding:8px;
+	width:486px;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#img1{
+	height:470px;
+	width:360px;
+	display:block;
+    margin:10px;
+
+}
+
+#img2{
+	height:360px;
+	width:470px;
+	display:block;
+    margin:10px;
+}
+
+#img3{
+	height:470px;
+	width:360px;
+	display:block;
+    margin:10px;
+}
+
+#img4{
+	height:450px;
+	width:360px;
+	display:block;
+    margin:10px;
+}
+
+dl span{
+	margin:7px;
+	display:block;
+}
+
+h2{
+	color: #605d5d;
+}
+
+h3{
+	color: #878484;
+}
+
+span{
+	color: #bdb9b9;
+}
+
+table{
+	border-spacing: 0px;
+	border-color: #9f9b9b;
+	width: 100%;
+	font-size: small;
+	font-family: "华文行楷";
+	font-style: normal;
+}
+
+th{
+	background-color:#575555;
+	color:white;
+	text-align: left;
+	padding:2px;
+}
+
+tr{
+	text-align: left;
+	padding:2px;
+}
+#lasttr{
+	border:none;
+	background-color: #9f9b9b;
+	border-collapse: collapse;
+}
+
+#lasttr td{
+	border:none;
+	border-collapse: collapse;
+	font-weight: bold;
+}
+
+aside{
+	margin:20px;
+	background-color: white;
+	padding:15px;
+	
+}
+
+form{
+	
+	font-size:small;
+	
+} 
+
+#mailsign{
+	color:#9f9b9b;
+	margin-left:485px
+}
+
+.left{
+	text-align: right;
+	display:inline-block;
+	width:40%;
+	margin-top: 5px;
+}
+
+.right{
+	margin-left: 5px;
+	margin-top: 5px;
+}
+
+#submit{
+	display:block;
+	width:100%;
+	padding:10px 0 10px 0;
+	margin-top: 10px;
+	height:40px;
+	font-size: 15px;
+	background-color: #3e73ea;
+	border-radius: 10px;
+
+
+}
+                                                                                                                                                                                                                                                                                      
